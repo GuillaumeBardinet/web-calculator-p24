@@ -4,6 +4,11 @@
 // # START EDITING YOUR JAVASCRIPT HERE
 // ===============
 
+
+// CODE REALISE PAR GUILLAUME BARDINET
+
+// J'ai modifié légèrement le code html (en rajoutant des onclick sur les boutons)
+
 //Variables globales
 let operation_en_cours=0 // Permet de savoir si le clic précédent était une touche opération ou non
 let stockage_nombre=0 // Permet de stocker un nombre pour les calculs
